@@ -3,8 +3,8 @@
 %bcond_without	tests	# do not perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Math
-%define	pnam	SimpleVariable
+%define		pdir	Math
+%define		pnam	SimpleVariable
 Summary:	Math::SimpleVariable - simple representation of mathematical variables
 Summary(pl):	Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
 Name:		perl-Math-SimpleVariable
