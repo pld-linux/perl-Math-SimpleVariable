@@ -33,7 +33,7 @@ Math::SimpleVariable to prosta reprezentacja zmiennych matematycznych,
 z obowi±zkow± nazw± i opcjonaln± warto¶ci±. Ta klasa sama w sobie mo¿e
 nie wydawaæ siê zbyt przydatna, ale mo¿na z niej wyprowadziæ ró¿ne
 typy zmiennych dla aplikacji. W ten sposób, do obiektów tych nowych
-klas mo¿na odwo³ywaæ siê przy pomocy udostêpmionych przez ten modu³
+klas mo¿na odwo³ywaæ siê przy pomocy udostêpnionych przez ten modu³
 protoko³ów.
 
 %prep
