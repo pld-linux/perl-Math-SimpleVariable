@@ -10,7 +10,8 @@ Summary(pl):	Math::SimpleVariable - prosta reprezentacja zmiennych matematycznyc
 Name:		perl-Math-SimpleVariable
 Version:	0.03
 Release:	2
-License:	GPL/Artistic
+# same as perl
+License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	0b7b45d71edab401e7aa64a0ad292eed
