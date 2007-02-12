@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	SimpleVariable
 Summary:	Math::SimpleVariable - simple representation of mathematical variables
-Summary(pl):	Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
+Summary(pl.UTF-8):   Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
 Name:		perl-Math-SimpleVariable
 Version:	0.03
 Release:	2
@@ -28,13 +28,13 @@ want to derive different types of variables for some application. That
 way, objects of the derived variable class can be accessed
 interchangeably with the here provided protocols.
 
-%description -l pl
+%description -l pl.UTF-8
 Math::SimpleVariable to prosta reprezentacja zmiennych matematycznych,
-z obowi±zkow± nazw± i opcjonaln± warto¶ci±. Ta klasa sama w sobie mo¿e
-nie wydawaæ siê zbyt przydatna, ale mo¿na z niej wyprowadziæ ró¿ne
-typy zmiennych dla aplikacji. W ten sposób, do obiektów tych nowych
-klas mo¿na odwo³ywaæ siê przy pomocy udostêpnionych przez ten modu³
-protoko³ów.
+z obowiÄ…zkowÄ… nazwÄ… i opcjonalnÄ… wartoÅ›ciÄ…. Ta klasa sama w sobie moÅ¼e
+nie wydawaÄ‡ siÄ™ zbyt przydatna, ale moÅ¼na z niej wyprowadziÄ‡ rÃ³Å¼ne
+typy zmiennych dla aplikacji. W ten sposÃ³b, do obiektÃ³w tych nowych
+klas moÅ¼na odwoÅ‚ywaÄ‡ siÄ™ przy pomocy udostÄ™pnionych przez ten moduÅ‚
+protokoÅ‚Ã³w.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
