@@ -6,7 +6,7 @@
 %define		pdir	Math
 %define		pnam	SimpleVariable
 Summary:	Math::SimpleVariable - simple representation of mathematical variables
-Summary(pl.UTF-8):   Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
+Summary(pl.UTF-8):	Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
 Name:		perl-Math-SimpleVariable
 Version:	0.03
 Release:	2
