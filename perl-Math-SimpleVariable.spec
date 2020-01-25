@@ -4,7 +4,6 @@
 
 %define		pdir	Math
 %define		pnam	SimpleVariable
-%include	/usr/lib/rpm/macros.perl
 Summary:	Math::SimpleVariable - simple representation of mathematical variables
 Summary(pl.UTF-8):	Math::SimpleVariable - prosta reprezentacja zmiennych matematycznych
 Name:		perl-Math-SimpleVariable
